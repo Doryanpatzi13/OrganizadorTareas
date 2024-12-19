@@ -1,0 +1,61 @@
+Nombre: Sistemas 1
+Descripción: hacer una monografia con relacion a las 
+funciones y caracteristicas de un sistema y
+luego convertirlo a pdf de 25 hojas como 
+minimo.
+Usuario: doryan
+Estado: Por Hacer
+Prioridad: Media
+Fecha Inicio: 2024-12-15
+Fecha Fin: 2024-12-21
+---------------------------
+Nombre: Sis. Info.
+Descripción: presentar un proyecto de Sistemas de 
+informacion grupal luego documentarlo y 
+entregar anrtes de la fecha limite
+Usuario: josue
+Estado: En Progreso
+Prioridad: Alta
+Fecha Inicio: 2024-12-12
+Fecha Fin: 2024-12-22
+---------------------------
+Nombre: estadistica
+Descripción: obtener datos y luego realizar promedio para
+saber cuantas personas trabajan en la 
+universidady luego presentar en word al
+ingenierio destadistica 1
+Usuario: rodrigo
+Estado: En Progreso
+Prioridad: Baja
+Fecha Inicio: 2024-12-14
+Fecha Fin: 2024-12-28
+---------------------------
+Nombre: elementos de programacion
+Descripción: realizar un programa que haga matrices con
+los datos y matrices dictadas por teclado y
+luego calcular las matrices y dar su resultado 
+Usuario: Fabiola
+Estado: Completada
+Prioridad: Media
+Fecha Inicio: 2024-12-10
+Fecha Fin: 2024-12-12
+---------------------------
+Nombre: ecuaciones
+Descripción: realizar ecuaciones matematicas enviadas 
+en classroom y luego presentar en formato pdf
+Usuario: doryan
+Estado: Completada
+Prioridad: Baja
+Fecha Inicio: 2024-12-07
+Fecha Fin: 2024-12-12
+---------------------------
+Nombre: circuitos
+Descripción: realizar un circuito funcional y la medicion de 
+su corriente total y luego su potencia (entregar
+impreso)
+Usuario: josue
+Estado: Por Hacer
+Prioridad: Alta
+Fecha Inicio: 2024-12-11
+Fecha Fin: 2024-12-14
+---------------------------

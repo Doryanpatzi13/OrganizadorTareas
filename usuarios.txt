@@ -1,0 +1,17 @@
+Nombre: josue
+Correo: josue2.lara@gmail.com
+Contraseña: bambino
+
+Nombre: doryan
+Correo: doryanpatzi13@gmail.com
+Contraseña: 12345678
+
+
+Nombre: rodrigo
+Correo: rodrigo7@gmail.com
+Contraseña: 12345678
+
+Nombre: Fabiola
+Correo: fabiola1@gmail.com
+Contraseña: 12345678
+
